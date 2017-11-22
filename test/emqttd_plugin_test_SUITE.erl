@@ -1,5 +1,5 @@
 
--module(emqttd_plugin_template_SUITE).
+-module(emqttd_plugin_test_SUITE).
 
 -compile(export_all).
 
