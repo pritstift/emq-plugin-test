@@ -10,4 +10,4 @@ rel/example_project
 .rebar
 .erlang.mk/
 data/
-emq_plugin_template.d
+emq_plugin_test.d
